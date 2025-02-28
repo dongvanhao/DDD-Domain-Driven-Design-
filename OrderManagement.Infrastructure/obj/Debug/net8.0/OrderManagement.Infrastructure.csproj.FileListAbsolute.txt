@@ -1,0 +1,15 @@
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.deps.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Infrastructure.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\bin\Debug\net8.0\OrderManagement.Domain.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderMan.FDF35C14.Up2Date
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\refint\OrderManagement.Infrastructure.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\OrderManagement.Infrastructure.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Infrastructure\obj\Debug\net8.0\ref\OrderManagement.Infrastructure.dll

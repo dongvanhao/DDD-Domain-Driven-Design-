@@ -1,0 +1,14 @@
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\bin\Debug\net8.0\OrderManagement.Domain.deps.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\bin\Debug\net8.0\OrderManagement.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\bin\Debug\net8.0\OrderManagement.Domain.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.AssemblyInfo.cs
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\refint\OrderManagement.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\ref\OrderManagement.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\bin\Debug\net8.0\OrderManagement.Domain.runtimeconfig.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.Domain\obj\Debug\net8.0\OrderManagement.Domain.genruntimeconfig.cache

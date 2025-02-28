@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469CC859-9C34-47A1-A898-89416C642D7D}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469CC859-9C34-47A1-A898-89416C642D7D}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469CC859-9C34-47A1-A898-89416C642D7D}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469CC859-9C34-47A1-A898-89416C642D7D}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432C1C39-B4D0-4DDB-8427-4C3C29FD37CB}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.infrastructure\\migrations\\20250228091925_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432C1C39-B4D0-4DDB-8427-4C3C29FD37CB}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\migrations\\20250228091925_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C52BD8A-4732-4A8A-B381-64A0DD556C8A}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C52BD8A-4732-4A8A-B381-64A0DD556C8A}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432C1C39-B4D0-4DDB-8427-4C3C29FD37CB}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432C1C39-B4D0-4DDB-8427-4C3C29FD37CB}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432C1C39-B4D0-4DDB-8427-4C3C29FD37CB}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432C1C39-B4D0-4DDB-8427-4C3C29FD37CB}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B8C702-0CFE-481A-B603-52B747EFCC3C}|OrderManagement.Domain\\OrderManagement.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B8C702-0CFE-481A-B603-52B747EFCC3C}|OrderManagement.Domain\\OrderManagement.Domain.csproj|solutionrelative:ordermanagement.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B8C702-0CFE-481A-B603-52B747EFCC3C}|OrderManagement.Domain\\OrderManagement.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B8C702-0CFE-481A-B603-52B747EFCC3C}|OrderManagement.Domain\\OrderManagement.Domain.csproj|solutionrelative:ordermanagement.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469CC859-9C34-47A1-A898-89416C642D7D}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{469CC859-9C34-47A1-A898-89416C642D7D}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C52BD8A-4732-4A8A-B381-64A0DD556C8A}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\ordermanagement.api\\ordermanagement.application\\ordermanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C52BD8A-4732-4A8A-B381-64A0DD556C8A}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\ordermanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderManagement.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:20:58.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250228091925_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Infrastructure\\Migrations\\20250228091925_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Migrations\\20250228091925_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Infrastructure\\Migrations\\20250228091925_InitialCreate.cs",
+              "RelativeToolTip": "OrderManagement.Infrastructure\\Migrations\\20250228091925_InitialCreate.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:19:26.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.API\\Program.cs",
+              "RelativeToolTip": "OrderManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:57:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.API\\appsettings.json",
+              "RelativeToolTip": "OrderManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T08:56:37.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "OrderManagement.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:55:35.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:54:45.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:51:26.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderManagement.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:47:10.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Domain\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Domain\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Domain\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderManagement.Domain\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:50:01.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Application\\OrderManagement.Application.csproj",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\OrderManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\OrderManagement.API\\OrderManagement.Application\\OrderManagement.Application.csproj",
+              "RelativeToolTip": "OrderManagement.Application\\OrderManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T08:50:56.381Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
