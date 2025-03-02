@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using OrderManagement.Application.Services;
+using OrderManagement.API.Service;
 using OrderManagement.Domain.Entities;
 using OrderManagement.Domain.Repositories;
 

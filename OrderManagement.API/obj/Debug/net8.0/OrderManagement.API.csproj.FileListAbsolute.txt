@@ -142,5 +142,4 @@ C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\Order
 C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.API\obj\Debug\net8.0\OrderManagement.API.pdb
 C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.API\obj\Debug\net8.0\OrderManagement.API.genruntimeconfig.cache
 C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.API\obj\Debug\net8.0\ref\OrderManagement.API.dll
-C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.API\bin\Debug\net8.0\OrderManagement.Application.dll
-C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.API\bin\Debug\net8.0\OrderManagement.Application.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\OrderManagement.API\OrderManagement.API\obj\Debug\net8.0\OrderManagement.API.sourcelink.json

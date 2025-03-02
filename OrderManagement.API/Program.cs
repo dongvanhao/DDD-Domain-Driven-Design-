@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using OrderManagement.Application.Services;
+using OrderManagement.API.Service;
 using OrderManagement.Domain.Repositories;
 using OrderManagement.Infrastructure;
 using OrderManagement.Infrastructure.Repositories;
